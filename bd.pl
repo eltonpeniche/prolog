@@ -1,4 +1,4 @@
-
+%%
 %% Banco de Dados em Prolog
 %% baseado no texto do Prof. Silvio Lago 
 %% 
