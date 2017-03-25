@@ -85,5 +85,5 @@ dddd([mil|DDD])-->[1],ddd(DDD).
 dddd([D,mil])-->d([D]),[0,0,0].
 dddd([X, mil, e|D])-->d([X]),[0,0],d(D).
 dddd([X, mil, e|DD])-->d([X]),[0],dd(DD).
-dddd([X, mil, e|DDD])-->d([X]),ddd(DDD).
+dddd([X, mil|DDD])-->d([X]),ddd(DDD).
 
